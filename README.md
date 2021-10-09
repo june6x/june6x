@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @artdd
-- 👀 I’m interested in programming
+- 👀 I'm interested in programming.
 - 🌱 I’m currently learning React and Node.js
 
 <!---
